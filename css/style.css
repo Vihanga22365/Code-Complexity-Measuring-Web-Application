@@ -1,0 +1,31 @@
+
+.contain {
+  position: relative;
+  width: 100%;
+}
+
+
+.contain img {
+  width: auto;
+  height: auto;
+}
+
+.contain .btn {
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #090247;
+  color: #f5f5fa;
+  font-size: 25px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 20px;
+  border: 1px solid white;
+}
+
+.contain .btn:hover {
+  background-color: black;
+}
