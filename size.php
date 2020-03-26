@@ -11,6 +11,7 @@
 
 
 	<h1> Size Page </h1>
+	<p>This is try to commit</p>
 
 	<?php include "footer.php"; ?>
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>
