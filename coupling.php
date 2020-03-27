@@ -10,7 +10,7 @@
 	<?php include "header.php"; ?>
 
 
-	<h1> Coupling Page </h1>
+	<h1> Coupling Page Kasthuri </h1>
 
 	<?php include "footer.php"; ?>
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>
